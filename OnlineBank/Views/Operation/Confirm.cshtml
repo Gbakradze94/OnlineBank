@@ -1,0 +1,35 @@
+﻿@model Operation
+
+
+<h2>Confirm Transfer</h2>
+<p>Please enter transfer details below! </p>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-action="Confirm" method="post">
+    <h3>Transfer amount to</h3>
+
+    <div class="form-group">
+        <label>Account Name:</label><input asp-for="AccountName" class="form-control" />
+    </div>
+
+    <h3>Account Number:</h3>
+    <div class="form-group">
+        <label>Destionation Account Number:</label><input asp-for="AccountNumber" class="form-control" />
+    </div>
+
+
+
+    <div class="form-group">
+        <label>Amount:</label><input asp-for="Amount" class="form-control" />
+    </div>
+    <h3>Options</h3>
+    <div class="checkbox">
+        <label>
+            <input asp-for="ConfirmOnPhone" /> Confirm the transfer on my phone
+        </label>
+    </div>
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Complete Order" />
+    </div>
+</form>

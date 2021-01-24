@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="bakradzegeorge17-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\U\\source\\repos\\OnlineBankSln\\OnlineBank\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="OnlineBank.Models.AppIdentityDbContext" description="" value="Server=(localdb)\MSSQLLocalDB;Database=OnlineBank;MultipleActiveResultSets=true" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\U\\source\\repos\\OnlineBankSln\\OnlineBank\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\OnlineBank\.Models\.AppIdentityDbContext\.sql$" />
+  </parameter>
+  <parameter name="OnlineBank.Models.BankDbContext" description="" value="Server=(localdb)\MSSQLLocalDB;Database=OnlineBank;MultipleActiveResultSets=true" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\U\\source\\repos\\OnlineBankSln\\OnlineBank\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\OnlineBank\.Models\.BankDbContext\.sql$" />
+  </parameter>
+</parameters>

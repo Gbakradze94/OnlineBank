@@ -1,0 +1,33 @@
+﻿@page "/admin/operations"
+
+@inherits OwningComponentBase<IOperationRepository>
+<OperationTable TableTitle="Undelivered Operations"
+                Operations="UndeliveredOperations" ButtonLabel="Approve" OperationSelected="DeliverOperation" />
+<OperationTable TableTitle="Delivered Operations"
+                Operations="DeliveredOperations" ButtonLabel="Reset" OperationSelected="ResetOperation" />
+<button class="btn btn-info" @onclick="@(e => UpdateData())">Refresh Data</button>
+@code {
+    public IOperationRepository Repository => Service;
+    public IEnumerable<Operation> AllOperations { get; set; }
+    public IEnumerable<Operation> UndeliveredOperations { get; set; }
+    public IEnumerable<Operation> DeliveredOperations { get; set; }
+    protected async override Task OnInitializedAsync()
+    {
+        await UpdateData();
+    }
+    public async Task UpdateData()
+    {
+        AllOperations = await Repository.Operations.ToListAsync();
+        UndeliveredOperations = AllOperations.Where(o => !o.Delivered);
+        DeliveredOperations = AllOperations.Where(o => o.Delivered);
+    }
+    public void DeliverOperation(int id) => UpdateOperation(id, true);
+    public void ResetOperation(int id) => UpdateOperation(id, false);
+
+    private void UpdateOperation(int id, bool deliverValue)
+    {
+        Operation o = Repository.Operations.FirstOrDefault(o => o.OperationID == id);
+        o.Delivered = deliverValue;
+        Repository.SaveOperation(o);
+    }
+}

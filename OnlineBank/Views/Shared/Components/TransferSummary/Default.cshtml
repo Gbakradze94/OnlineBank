@@ -1,0 +1,17 @@
+﻿@model Transfer
+
+<div class="">
+    @if (Model.Lines.Count() > 0)
+    {
+        <small class="navbar-text">
+            <b>Transfer Details:</b>
+            @Model.Lines.Sum(x => x.Amount) Amount
+            @Model.ComputeTotalValue().ToString("c")
+        </small>
+    }
+    <a class="btn btn-sm btn-secondary navbar-btn" asp-page="/Transfer"
+       asp-route-returnurl="@ViewContext.HttpContext.Request.PathAndQuery()">
+        <i class="fa" style="font-size:24px">&#xf19c;</i>
+    </a>
+</div>
+

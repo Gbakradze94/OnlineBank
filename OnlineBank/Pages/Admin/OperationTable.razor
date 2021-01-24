@@ -1,0 +1,49 @@
+﻿
+<table class="table table-sm table-striped table-bordered">
+    <thead>
+        <tr><th colspan="5" class="text-center">@TableTitle</th></tr>
+    </thead>
+    <tbody>
+        @if (Operations?.Count() > 0)
+        {
+            @foreach (Operation o in Operations)
+            {
+                <tr>
+                    <td>@o.AccountName</td>
+                    <td>@o.AccountNumber</td>
+                    <th>Account</th>
+                    <th>Amount</th>
+                    <td>
+                        <button class="btn btn-sm btn-danger"
+                                @onclick="@(e => OperationSelected.InvokeAsync(o.OperationID))">
+                            @ButtonLabel
+                        </button>
+                    </td>
+                </tr>
+                @foreach (Transfer.TransferLine line in o.Lines)
+                {
+                    <tr>
+                        <td colspan="2"></td>
+                        <td>@line.Account.AccountName</td>
+                        <td>@line.Account.Balance</td>
+                        <td></td>
+                    </tr>
+                }
+            }
+        }
+        else
+        {
+            <tr><td colspan="5" class="text-center">No Operations</td></tr>
+        }
+    </tbody>
+</table>
+@code {
+    [Parameter]
+    public string TableTitle { get; set; } = "Operations";
+    [Parameter]
+    public IEnumerable<Operation> Operations { get; set; }
+    [Parameter]
+    public string ButtonLabel { get; set; } = "Approve";
+    [Parameter]
+    public EventCallback<int> OperationSelected { get; set; }
+}

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\OnlineBank.Models.AppIdentityDbContext.sql" />
+  <dbfullsql path="C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\OnlineBank.Models.BankDbContext.sql" />
+</sitemanifest>

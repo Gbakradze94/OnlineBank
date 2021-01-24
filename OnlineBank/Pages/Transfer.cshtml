@@ -1,0 +1,58 @@
+﻿@page
+@model TransferModel
+
+<h2>Transfer</h2>
+
+<table class="=table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Sender's  Account Number</th>
+            <th>Balance</th>
+            <th class="text-right">Amount to Transfer</th>
+            <th class="text-right">USD/GEL Exchange Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Transfer.Lines)
+        {
+        <tr>
+            <td class="text-center">@line.Account.AccountNumber.ToString("D9")</td>
+            <td class="text-left">@line.Account.Balance.ToString("c")</td>
+            <td class="text-right">@line.Amount.ToString("c")</td>
+            <td class="text-right">
+                @((line.UsdExchangeRate).ToString("c", System.Globalization.CultureInfo.GetCultureInfo("en-GE")))
+            </td>
+            <td class="text-center">
+                <form asp-page-handler="Remove" method="post">
+                    <input type="hidden" name="AccountNumber"
+                           value="@line.Account.AccountNumber" />
+                    <input type="hidden" name="returnUrl"
+                           value="@Model.ReturnUrl" />
+                    <button type="submit" class="btn btn-sm btn-danger">
+                        Remove
+                    </button>
+                </form>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+
+
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Total:</td>
+            <td class="text-right">
+                @Model.Transfer.ComputeTotalValue().ToString("c")
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">Continue Banking</a>
+    <a class="btn btn-primary" asp-action="Confirm" asp-controller="Operation">
+        Proceed To Transfer
+    </a>
+</div>

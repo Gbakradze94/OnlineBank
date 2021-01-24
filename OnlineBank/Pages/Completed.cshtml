@@ -1,0 +1,12 @@
+﻿@page
+<div class="text-center">
+    <h2>Thank You for Banking with us!</h2>
+    <p> Transfer #@OperationId was successful!</p>
+    <p> Transfers after 10pm will deliver within next day</p>
+    <a class="btn btn-primary" asp-controller="Home">Return to Online Bank</a>
+</div>
+@functions {
+    [BindProperty(SupportsGet = true)]
+    public string OperationId { get; set; }
+
+}

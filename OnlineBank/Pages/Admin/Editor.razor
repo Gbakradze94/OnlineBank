@@ -1,0 +1,72 @@
+﻿@page "/admin/accounts/edit/{id:long}"
+@page "/admin/accounts/create"
+@inherits OwningComponentBase<IBankRepository>
+<style>
+    div.validation-message {
+        color: rgb(220, 53, 69);
+        font-weight: 500
+    }
+</style>
+<h3 class="bg-@ThemeColor text-white text-center p-1">@TitleText a Product</h3>
+<EditForm Model="Account" OnValidSubmit="SaveAccount">
+    <DataAnnotationsValidator />
+    @if (Account.AccountID != 0)
+    {
+        <div class="form-group">
+            <label>ID</label>
+            <input class="form-control" disabled value="@Account.AccountID" />
+        </div>
+    }
+    <div class="form-group">
+        <label>Account Name</label>
+        <ValidationMessage For="@(() => Account.AccountName)" />
+        <InputText class="form-control" @bind-Value="Account.AccountName" />
+    </div>
+    <!--  <div class="form-group">
+          <label>Description</label>
+          <ValidationMessage For=" (() => Account.AccountNumber)" />
+          <InputText class="form-control"  bind-Value="Account.AccountNumber" />
+      </div>
+        -->
+    <div class="form-group">
+        <label>Category</label>
+        <ValidationMessage For="@(() => Account.Category)" />
+        <InputText class="form-control" @bind-Value="Account.Category" />
+    </div>
+    <div class="form-group">
+        <label>Balance</label>
+        <ValidationMessage For="@(() => Account.Balance)" />
+        <InputNumber class="form-control" @bind-Value="Account.Balance" />
+    </div>
+    <button type="submit" class="btn btn-@ThemeColor">Save</button>
+    <NavLink class="btn btn-secondary" href="/admin/products">Cancel</NavLink>
+</EditForm>
+@code {
+    public IBankRepository Repository => Service;
+    [Inject]
+    public NavigationManager NavManager { get; set; }
+    [Parameter]
+    public long Id { get; set; } = 0;
+    public Account Account { get; set; } = new Account();
+    protected override void OnParametersSet()
+    {
+        if (Id != 0)
+        {
+            Account = Repository.Accounts.FirstOrDefault(a => a.AccountID == Id);
+        }
+    }
+    public void SaveAccount()
+    {
+        if (Id == 0)
+        {
+            Repository.CreateAccount(Account);
+        }
+        else
+        {
+            Repository.SaveAccount(Account);
+        }
+        NavManager.NavigateTo("/admin/accounts");
+    }
+    public string ThemeColor => Id == 0 ? "primary" : "warning";
+    public string TitleText => Id == 0 ? "Create" : "Edit";
+}

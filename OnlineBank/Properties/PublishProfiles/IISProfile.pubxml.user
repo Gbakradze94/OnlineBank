@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABeBmn4oa0EWrAmmeq/pZygAAAAACAAAAAAAQZgAAAAEAACAAAADMx89a0phG9jG8oAoSbS1/SZaH9nTa+nWUHmwvPDu7twAAAAAOgAAAAAIAACAAAACe5Y0E8pQPyDbzRpin1u4K57pNfu05B+WsxHMHGrl9yyAAAACN2vPY/Ow4jYPyHd4EnO8hZEexHb2hS6bsRPOjsVl7OUAAAABcIkmueOuguhWkFp6YXYtbBcyIdk6u3D6ONllBiiVwUPP/KCD36YLa4D9b1VTDNFN7Ww0jgeWCPtpGe1CP4fIG</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="IdentityConnection">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=OnlineBank%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="OnlineBankConnection">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=OnlineBank%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="OnlineBank.Models.AppIdentityDbContext">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=OnlineBank%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+    <EFMigrations Include="OnlineBank.Models.BankDbContext">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=OnlineBank%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

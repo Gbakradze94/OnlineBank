@@ -1,0 +1,73 @@
+﻿@page "/admin/accounts"
+@page "/admin"
+
+@inherits OwningComponentBase<IBankRepository>
+<table class="table table-sm table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Balance</th>
+            <th>Actions</th>
+            <td />
+        </tr>
+    </thead>
+    <tbody>
+        @if (AccountData?.Count() > 0)
+        {
+            @foreach (Account a in AccountData)
+            {
+                <tr>
+                    <td>@a.AccountID</td>
+                    <td>@a.AccountName</td>
+                    <td>@a.Category</td>
+                    <td>@a.Balance.ToString("c")</td>
+                    <td>
+                        <NavLink class="btn btn-info btn-sm"
+                                 href="@GetDetailsUrl(a.AccountID)">
+                            Details
+                        </NavLink>
+                        <NavLink class="btn btn-warning btn-sm"
+                                 href="@GetEditUrl(a.AccountID)">
+                            Edit
+                        </NavLink>
+                        <button class="btn btn-danger btn-sm"
+                                @onclick="@(e => DeleteAccount(a))">
+                            Deactivate Account
+                        </button>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">No Products</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<NavLink class="btn btn-primary" href="/admin/products/create">Create</NavLink>
+
+@code {
+    public IBankRepository Repository => Service;
+    public IEnumerable<Account> AccountData { get; set; }
+    protected async override Task OnInitializedAsync()
+    {
+        await UpdateData();
+    }
+    public async Task UpdateData()
+    {
+        AccountData = await Repository.Accounts.ToListAsync();
+    }
+
+    public async Task DeleteAccount(Account a)
+    {
+        Repository.DeleteAccount(a);
+        await UpdateData();
+    }
+
+    public string GetDetailsUrl(long id) => $"/admin/accounts/details/{id}";
+    public string GetEditUrl(long id) => $"/admin/accounts/edit/{id}";
+}

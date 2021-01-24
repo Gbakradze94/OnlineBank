@@ -1,0 +1,287 @@
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\global.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.exe
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.deps.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.runtimeconfig.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.runtimeconfig.dev.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.pdb
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.Views.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.Views.pdb
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.AssemblyInfoInputs.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.AssemblyInfo.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorAssemblyInfo.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorAssemblyInfo.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBank.StaticWebAssets.Manifest.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBank.StaticWebAssets.xml
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.TagHelpers.input.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.TagHelpers.output.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorCoreGenerate.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorTargetAssemblyInfo.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorTargetAssemblyInfo.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.Views.pdb
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.pdb
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.csproj.CopyComplete
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AccountsSummary.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Transfer.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_TransferLayout.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TransferSummary\Default.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Operation\Confirm.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.csprojAssemblyReference.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorComponent.input.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Accounts.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Operations.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\OnlineBank.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Accounts.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Operations.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\global.json
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\libman.json
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.exe
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.deps.json
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.runtimeconfig.json
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.runtimeconfig.dev.json
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.pdb
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.Views.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.Views.pdb
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.csprojAssemblyReference.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.AssemblyInfoInputs.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.AssemblyInfo.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.csproj.CoreCompileInputs.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.MvcApplicationPartsAssemblyInfo.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorComponent.input.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Accounts.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Operations.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorComponent.output.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\OnlineBank.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.TagHelpers.input.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.TagHelpers.output.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorCoreGenerate.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Accounts.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Operations.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Transfer.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_TransferLayout.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Operation\Confirm.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AccountsSummary.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TransferSummary\Default.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorAssemblyInfo.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorAssemblyInfo.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBank.StaticWebAssets.Manifest.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBank.StaticWebAssets.xml
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineBank.styles.css
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorTargetAssemblyInfo.cache
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorTargetAssemblyInfo.cs
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.Views.pdb
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.csproj.CopyComplete
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.dll
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.pdb
+D:\Codes\OnlineBankSln version of 12.25.2020\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.genruntimeconfig.cache
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OperationTable.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OperationTable.razor.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\global.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.exe
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.deps.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.runtimeconfig.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.runtimeconfig.dev.json
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.pdb
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.Views.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\OnlineBank.Views.pdb
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.csprojAssemblyReference.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBank.StaticWebAssets.Manifest.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBank.StaticWebAssets.xml
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorComponent.input.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Accounts.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Operations.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OperationTable.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\RazorDeclaration\OnlineBank.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.TagHelpers.input.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.TagHelpers.output.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorCoreGenerate.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Accounts.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Operations.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OperationTable.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\Transfer.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_TransferLayout.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Operation\Confirm.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AccountsSummary.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TransferSummary\Default.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorAssemblyInfo.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorAssemblyInfo.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.AssemblyInfoInputs.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.AssemblyInfo.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorTargetAssemblyInfo.cache
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.RazorTargetAssemblyInfo.cs
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.Views.pdb
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.csproj.CopyComplete
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.dll
+C:\Users\U\Desktop\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\OnlineBank.pdb
+C:\Users\U\source\repos\OnlineBankSln\OnlineBank\obj\Debug\netcoreapp3.1\Razor\Views\ChatHub\Chat.cshtml.g.cs
