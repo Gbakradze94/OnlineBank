@@ -2,7 +2,7 @@
 Beginner ASP.NET Core MVC Project
 
 This is my first ASP.NET Core Web Project.  The OnlineBank in this project is way far away from real world online bank applications. However, this
-project demonstrates my basic knowledge of C# programming language,  ASP.NET Core MVC framework.  
+project demonstrates my basic knowledge of C# programming language and ASP.NET Core MVC framework.  
 
 Skills demonstrated in this project:
 
@@ -12,7 +12,7 @@ Skills demonstrated in this project:
 4. Ability to configure Startup.cs class, adding ConnectionStrings in appsettings.json
 5. Basic bootstrap library application.
 6. Understanding Identity, creating Admin page.
-7. Understanding Basic Http protocols,  Http Post and Get attributes.
+7. Understanding Http protocol,  Http Post and Get attributes, managing HTTP requests and responses.
 
 
 
